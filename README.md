@@ -10,6 +10,8 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+   ![Snake animation](https://github.com/striderry/striderry/blob/output/github-contribution-grid-snake.svg)
 </div><br/>
 
 Olá! Sou Ryan Araújo, estudo Letras - Francês na USP e também faço a Graduação em Tecnologia em Jogos Digitais. Os games tiveram papel fundamental na minha formação, ensinando-me a apreciar desafios e buscar conhecimento, assim como a literatura. Jogos digitais e literatura compartilham o prazer de boas histórias, capazes de marcar nossas vidas. 
@@ -17,5 +19,5 @@ Olá! Sou Ryan Araújo, estudo Letras - Francês na USP e também faço a Gradua
 ## Contato:
 - [E-mail](ryan.bak20@gmail.com)
 
--     ![Snake animation](https://github.com/striderry/striderry/blob/output/github-contribution-grid-snake.svg)
+-    
 
