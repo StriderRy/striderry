@@ -19,7 +19,6 @@ Olá! Sou Ryan Araújo, estudo Letras - Francês na USP e também faço a Gradua
 - [E-mail](ryan.bak20@gmail.com)
 - 
 <div align="center">
-  ![Snake animation](https://github.com/StriderRy/StriderRy/blob/output/github-contribution-grid-snake.svg) 
 
   ![Snake animation](https://github.com/StriderRy/StriderRy/blob/output/github-contribution-grid-snake.svg)
 
