@@ -17,9 +17,6 @@
  <br>
 
 
-![Snake animation](https://github.com/StriderRy/StriderRy/blob/output/github-contribution-grid-snake.svg)
-
-
 </div><br/>
 
 Olá! Sou Ryan Araújo, estudo Letras - Francês na USP e também faço a Graduação em Tecnologia em Jogos Digitais. Os games tiveram papel fundamental na minha formação, ensinando-me a apreciar desafios e buscar conhecimento, assim como a literatura. Jogos digitais e literatura compartilham o prazer de boas histórias, capazes de marcar nossas vidas. 
