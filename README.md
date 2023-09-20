@@ -12,15 +12,19 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  </div>
+
+ <div align="center">
+
+  ![Snake animation](https://github.com/StriderRy/StriderRy/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
- 
- <br>
 
-
-</div><br/>
+<div><br/>
 
 Olá! Sou Ryan Araújo, estudo Letras - Francês na USP e também faço a Graduação em Tecnologia em Jogos Digitais. Os games tiveram papel fundamental na minha formação, ensinando-me a apreciar desafios e buscar conhecimento, assim como a literatura. Jogos digitais e literatura compartilham o prazer de boas histórias, capazes de marcar nossas vidas. 
 
 ## Contato:
-- [E-mail](ryan.bak20@gmail.com)
+- [E-mail](ryan.bak20@gmail.com)</div>
 
