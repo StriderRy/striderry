@@ -21,4 +21,3 @@ Olá! Sou Ryan Araújo, estudo Letras - Francês na USP e também faço a Gradua
 
 ## Contato:
 - [E-mail](ryan.bak20@gmail.com)</div>
-
