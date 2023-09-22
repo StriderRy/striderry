@@ -2,10 +2,10 @@
 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://striderry.blogspot.com/2023/08/como-legend-of-zelda-transformou-o.html) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-ara%C3%BAjo-2a8881258/)
 
-<div>
+<div align="left">
    <a href="https://github.com/StriderRy">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StriderRy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StriderRy&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StriderRy&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
       
 <div style="display: inline_block"><br>
