@@ -2,12 +2,13 @@
 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://striderry.blogspot.com/2023/08/como-legend-of-zelda-transformou-o.html) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-ara%C3%BAjo-2a8881258/)
 
-<div align="left">
-   <a href="https://github.com/StriderRy">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StriderRy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StriderRy&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-      
+
+   # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=StriderRy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=StriderRy&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StriderRy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---      
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
